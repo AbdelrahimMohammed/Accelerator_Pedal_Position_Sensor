@@ -1,0 +1,14 @@
+﻿-IA:\OS\ttt
+-IA:\OS\ttt\Failure_Detection0_ert_rtw
+-I"A:\Matlab\MATLAB\New folder\extern\include"
+-I"A:\Matlab\MATLAB\New folder\simulink\include"
+-I"A:\Matlab\MATLAB\New folder\rtw\c\src"
+-I"A:\Matlab\MATLAB\New folder\rtw\c\src\ext_mode\common"
+-I"A:\Matlab\MATLAB\New folder\rtw\c\ert"
+-IA:\OS\ttt\Failure_Detection0_ert_rtw\sil
+-IA:\OS\ttt\Failure_Detection0_ert_rtw\coderassumptions
+-I"A:\Matlab\MATLAB\New folder\toolbox\rtw\targets\pil\c"
+-I"A:\Matlab\MATLAB\New folder\extern\include\coder\connectivity\XILTgtAppSvc"
+-I"A:\Matlab\MATLAB\New folder\toolbox\coder\rtiostream\src\utils"
+-I"A:\Matlab\MATLAB\New folder\toolbox\coder\rtiostream\src"
+-I"A:\Matlab\MATLAB\New folder\extern\include\coder\connectivity\CoderAssumpTgtAppSvc"
